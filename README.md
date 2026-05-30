@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040033
+# Name: ASHWANTH R
+# Date: 30.05.2026
 
 
 # AIM:
@@ -50,6 +50,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1238" height="1017" alt="image" src="https://github.com/user-attachments/assets/73ec6b22-cb1e-4b48-976d-5f6be0a25a19" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1241" height="1009" alt="image" src="https://github.com/user-attachments/assets/df940613-bd9a-411e-bba4-b29a06888d96" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1242" height="1020" alt="image" src="https://github.com/user-attachments/assets/fececbad-2b51-49d2-9d97-d9778bba1956" />
 
 
 # PACKAGE DIAGRAM:
@@ -89,6 +92,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1243" height="1017" alt="image" src="https://github.com/user-attachments/assets/455093a5-54fe-44a5-8545-f5654bf3caef" />
 
 
 
@@ -106,6 +110,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1238" height="1014" alt="image" src="https://github.com/user-attachments/assets/6f576d5c-8b98-4542-90f5-181e85b9763e" />
 
 
 
@@ -126,6 +131,8 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
+<img width="1242" height="1015" alt="image" src="https://github.com/user-attachments/assets/2ccbf2be-4779-4381-b800-0c9edb6bb4a3" />
 
 
 
